@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC_HDL_NathanDougherty", "MVC_HDL_NathanDougherty\MVC_HDL_NathanDougherty.csproj", "{B2D87467-CD81-483A-9225-819FE8FA736C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC_HDL_NathanDougherty.Tests", "MVC_HDL_NathanDougherty.Tests\MVC_HDL_NathanDougherty.Tests.csproj", "{0DD1C064-2D3E-4603-82F5-67779CCF6C7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2D87467-CD81-483A-9225-819FE8FA736C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2D87467-CD81-483A-9225-819FE8FA736C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2D87467-CD81-483A-9225-819FE8FA736C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2D87467-CD81-483A-9225-819FE8FA736C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DD1C064-2D3E-4603-82F5-67779CCF6C7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DD1C064-2D3E-4603-82F5-67779CCF6C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DD1C064-2D3E-4603-82F5-67779CCF6C7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DD1C064-2D3E-4603-82F5-67779CCF6C7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
