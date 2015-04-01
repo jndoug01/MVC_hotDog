@@ -42,3 +42,5 @@ C:\Users\Nathan\Documents\Visual Studio 2013\Projects\MVC_HDL_NathanDougherty\MV
 C:\Users\Nathan\Documents\Visual Studio 2013\Projects\MVC_HDL_NathanDougherty\MVC_HDL_NathanDougherty.Tests\obj\Debug\MVC_HDL_NathanDougherty.Tests.csprojResolveAssemblyReference.cache
 C:\Users\Nathan\Documents\Visual Studio 2013\Projects\MVC_HDL_NathanDougherty\MVC_HDL_NathanDougherty.Tests\obj\Debug\MVC_HDL_NathanDougherty.Tests.dll
 C:\Users\Nathan\Documents\Visual Studio 2013\Projects\MVC_HDL_NathanDougherty\MVC_HDL_NathanDougherty.Tests\obj\Debug\MVC_HDL_NathanDougherty.Tests.pdb
+C:\Users\Nathan\Documents\GitHub\MVC_hotDog\MVC_HDL_NathanDougherty\MVC_HDL_NathanDougherty.Tests\obj\Debug\MVC_HDL_NathanDougherty.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Nathan\Documents\GitHub\MVC_hotDog\MVC_HDL_NathanDougherty\MVC_HDL_NathanDougherty.Tests\obj\Debug\MVC_HDL_NathanDougherty.Tests.dll
